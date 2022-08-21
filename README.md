@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# السلام عليكم ورحمه الله وبركاته
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## للأيقونات استخدمت: *React Icons*
 
-## Available Scripts
+## لتنسيق الموقع استخدمت اطار عمل: *Bootstrap (React Bootsrap)*
 
-In the project directory, you can run:
+## عن السلايدر
 
-### `npm start`
+- يمكنك التبديل بواسطة المؤشرات من الاسفل
+- يمكنك الضغط والسحب بالفأرة للتبديل بين الشرائح
+- يمكنك استخدام عجلة الفأرة للتبديل بين الشرائح
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## This favicon was generated using the following font
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Font Title: Acme
+- Font Size: 110
+- Font Variant: Regular 400 Normal
+- Font Author: Copyright (c) 2011 by Juan Pablo del Peral (info@huertatipografica.com.ar), with Reserved Font Name "Acme"
+- Font Source: ()[http://fonts.gstatic.com/s/acme/v18/RrQfboBx-C5_bx3Lb23lzLk.ttf]
+- Font License: SIL Open Font License, 1.1 (()[http://scripts.sil.org/OFL]))
+- Icon Generator: (facicon.io)[https://facicon.io]
+- Background Color: #0d6efd
+- other info: the background is rounded
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ماذا فعلت ايضا?
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [] قمت بتحسين جودة الصور
+- [] تأكد من تجواب الموقع
+- [] تفاعل الموقع مع المستخدم
+- [] كود نظيف
+- [] ضغط الموقع

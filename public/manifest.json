@@ -1,6 +1,6 @@
 {
-  "short_name": "Project",
-  "name": "Project is another portfolio item.",
+  "short_name": "Mazpayment",
+  "name": "Mazpayment is another way to pay your pills.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,18 +8,18 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo-192.png",
+      "src": "android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo-512.png",
+      "src": "android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#023535",
-  "background_color": "#C7FFED"
+  "theme_color": "#0d6efd",
+  "background_color": "#ffffff"
 }
