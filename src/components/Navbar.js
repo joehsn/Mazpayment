@@ -29,7 +29,7 @@ function NavigationBar() {
             <Nav.Link href="#action1">الصفحة الرئيسية</Nav.Link>
             <Nav.Link href="#action2">الاسعار</Nav.Link>
             <Nav.Link href="#action3">الدعم</Nav.Link>
-            <Nav.Link href="#action4">اتصل بنا</Nav.Link>
+            <Nav.Link href="#contact">اتصل بنا</Nav.Link>
           </Nav>
           <div className="d-flex flex-column flex-md-row">
             <Link to="#sign up" className='btn btn-outline-secondary me-md-2 rounded-pill'>إنشاء  حساب</Link>

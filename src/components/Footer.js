@@ -20,7 +20,7 @@ export default function Footer() {
                 <Link to="#" className="btn btn-primary rounded-circle"><FaYoutube /></Link>
                 <Link to="#" className="btn btn-primary rounded-circle"><FaFacebookSquare /></Link>
                 <Link to="#" className="btn btn-primary rounded-circle"><FaInstagram /></Link>
-                <Link to="#contact" className="btn btn-primary rounded-circle"><FaLinkedin /></Link>
+                <Link to="#" className="btn btn-primary rounded-circle"><FaLinkedin /></Link>
             </div>
             <Button onClick={toTop} variant='primary' className="rounded-circle mt-2 mt-md-0"><FaChevronUp /><span className='d-none'>To Top</span></Button>
         </footer>
