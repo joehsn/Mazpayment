@@ -23,7 +23,7 @@ code {
 
 .swiper {
   width: 100%;
-  height: 50vh;
+  height: 85vh;
   overflow-x: hidden;
 }
 .swiper .swiper-slide {
@@ -48,6 +48,12 @@ code {
 }
 .swiper .swiper-pagination-bullet-active {
   border: 0.15rem solid #007aff;
+}
+
+.system p,
+.process p,
+.security p {
+  font-size: 1.25rem;
 }
 
 .system h2,
@@ -122,4 +128,15 @@ footer .social-links a {
 }
 footer .social-links a:first-child {
   margin-right: 0;
+}
+
+@media (min-width: 768px) {
+  .navbar {
+    min-height: 15vh;
+  }
+}
+@media (max-width: 767px) {
+  .swiper {
+    height: 90vh !important;
+  }
 }/*# sourceMappingURL=style.css.map */

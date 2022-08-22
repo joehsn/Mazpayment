@@ -35,11 +35,11 @@ export default function Contact (props) {
     return (<>
         <Container fluid className='contact py-5'>
             <Row>
-                <Col xs={12} className="text-center mb-5">
+                <Col xs={12} data-aos='fade-down' className="text-center mb-5">
                     <h2>اتصل بنا</h2>
                     <span class="text-muted fs-6">هدفنا الوصول اليك في كل وقت ومكان.</span>
                 </Col>
-                <Col md={8} className='order-1'>
+                <Col md={8} data-aos='fade-left' className='order-1'>
                     <Form id='contact' ref={form} onSubmit={sendEmail}>
                         <Row className='mb-3'>
                             <Col md={6} className='mb-3 mb-md-0'>
@@ -107,7 +107,7 @@ export default function Contact (props) {
                             </Col>
                     </Form>
                 </Col>
-                <Col md={4} className='mt-3 mt-md-0 order-3 order-md-2'>
+                <Col md={4} data-aos='fade-right' className='mt-3 mt-md-0 order-3 order-md-2'>
                     <iframe id='map' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d462560.3011806427!2d54.947284948608434!3d25.076381472700543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43496ad9c645%3A0xbde66e5084295162!2sDubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2seg!4v1661029741436!5m2!1sen!2seg" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title='Dubai' className='rounded'></iframe>
                 </Col>
                 <Col id='form-feedback' xs={12} className='mt-3 order-2 order-md-3 d-none'>{

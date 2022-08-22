@@ -1,5 +1,7 @@
 import React  from 'react';
 import { ThemeProvider } from 'react-bootstrap';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 import 'bootstrap/dist/css/bootstrap.rtl.min.css'
 import "bootstrap/dist/js/bootstrap";
 // Components Imports
@@ -15,6 +17,9 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 export default function App() {
+  AOS.init({
+    duration: 800
+  });
   return (<>
     <ThemeProvider dir='rtl'>
         <Navbar />

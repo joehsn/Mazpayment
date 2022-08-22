@@ -28,7 +28,7 @@ code {
 
 .swiper {
   width: 100%;
-  height: 50vh;
+  height: 85vh;
   overflow-x: hidden;
   .swiper-slide {
     text-align: center;
@@ -51,6 +51,13 @@ code {
   }
   .swiper-pagination-bullet-active {
     border: 0.15rem solid #007aff;
+  }
+}
+.system,
+.process,
+.security {
+  p {
+    font-size: 1.25rem;
   }
 }
 .system,
@@ -132,5 +139,16 @@ footer {
     &:first-child {
       margin-right: 0;
     }
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar {
+    min-height: 15vh;
+  }
+}
+@media (max-width: 767px) {
+  .swiper {
+    height: 90vh !important;
   }
 }
