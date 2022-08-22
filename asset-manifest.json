@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a629d0c.css",
-    "main.js": "/static/js/main.62bab6b4.js",
-    "static/js/787.ec704a7a.chunk.js": "/static/js/787.ec704a7a.chunk.js",
-    "index.html": "/index.html",
-    "main.6a629d0c.css.map": "/static/css/main.6a629d0c.css.map",
-    "main.62bab6b4.js.map": "/static/js/main.62bab6b4.js.map",
-    "787.ec704a7a.chunk.js.map": "/static/js/787.ec704a7a.chunk.js.map"
+    "main.css": "/Mazpayment/static/css/main.6a629d0c.css",
+    "main.js": "/Mazpayment/static/js/main.1992e1bf.js",
+    "static/js/787.ec704a7a.chunk.js": "/Mazpayment/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/Mazpayment/index.html",
+    "main.6a629d0c.css.map": "/Mazpayment/static/css/main.6a629d0c.css.map",
+    "main.1992e1bf.js.map": "/Mazpayment/static/js/main.1992e1bf.js.map",
+    "787.ec704a7a.chunk.js.map": "/Mazpayment/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a629d0c.css",
-    "static/js/main.62bab6b4.js"
+    "static/js/main.1992e1bf.js"
   ]
 }
