@@ -33,14 +33,14 @@ export default function Contact (props) {
     }
 
     return (<>
-        <Container fluid className='contact py-5'>
+        <Container id='contact' fluid className='contact py-5'>
             <Row>
                 <Col xs={12} data-aos='fade-down' className="text-center mb-5">
                     <h2>اتصل بنا</h2>
                     <span class="text-muted fs-6">هدفنا الوصول اليك في كل وقت ومكان.</span>
                 </Col>
                 <Col md={8} className='order-1'>
-                    <Form id='contact' ref={form} onSubmit={sendEmail}>
+                    <Form id='form' ref={form} onSubmit={sendEmail}>
                         <Row className='mb-3'>
                             <Col md={6} className='mb-3 mb-md-0'>
                                 <FloatingLabel
