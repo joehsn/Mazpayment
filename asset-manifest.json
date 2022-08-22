@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mazpayment/static/css/main.6a629d0c.css",
-    "main.js": "/Mazpayment/static/js/main.1992e1bf.js",
-    "static/js/787.ec704a7a.chunk.js": "/Mazpayment/static/js/787.ec704a7a.chunk.js",
-    "index.html": "/Mazpayment/index.html",
-    "main.6a629d0c.css.map": "/Mazpayment/static/css/main.6a629d0c.css.map",
-    "main.1992e1bf.js.map": "/Mazpayment/static/js/main.1992e1bf.js.map",
-    "787.ec704a7a.chunk.js.map": "/Mazpayment/static/js/787.ec704a7a.chunk.js.map"
+    "main.css": "/Mazpgit%20push%20-u%20origin%20mainayment/static/css/main.6a629d0c.css",
+    "main.js": "/Mazpgit%20push%20-u%20origin%20mainayment/static/js/main.6b4debe0.js",
+    "static/js/787.ec704a7a.chunk.js": "/Mazpgit%20push%20-u%20origin%20mainayment/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/Mazpgit%20push%20-u%20origin%20mainayment/index.html",
+    "main.6a629d0c.css.map": "/Mazpgit%20push%20-u%20origin%20mainayment/static/css/main.6a629d0c.css.map",
+    "main.6b4debe0.js.map": "/Mazpgit%20push%20-u%20origin%20mainayment/static/js/main.6b4debe0.js.map",
+    "787.ec704a7a.chunk.js.map": "/Mazpgit%20push%20-u%20origin%20mainayment/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a629d0c.css",
-    "static/js/main.1992e1bf.js"
+    "static/js/main.6b4debe0.js"
   ]
 }
