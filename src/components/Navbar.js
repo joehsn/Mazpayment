@@ -15,7 +15,7 @@ function NavigationBar() {
     }
   }
   return (
-    <Navbar bg="light" expand="md" text="dark">
+    <Navbar bg="light" expand="md" text="dark" className='py-md-4'>
       <Container fluid>
         <Navbar.Brand href="/">Mazpayment</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbar" onClick={toggle}>

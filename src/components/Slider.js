@@ -2,6 +2,7 @@ import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css/bundle";
 import { Pagination, Autoplay, EffectFade } from "swiper";
+import img from '../images/main.png'
 
 export default function Slider() {
   return (
@@ -20,7 +21,7 @@ export default function Slider() {
         className = "mySwiper"
       >
         <SwiperSlide>
-          <img src="../images/meeting_one.webp" alt="Meeting one"/>
+          <img src={img} alt="Meeting one"/>
         </SwiperSlide>
         <SwiperSlide>
           <img src="https://via.placeholder.com/1440x300/fd7e14" alt="#"/>

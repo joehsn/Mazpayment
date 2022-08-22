@@ -28,7 +28,7 @@ export default function Contact (props) {
         if (!feedback.classList.contains('d-none')) {
             setInterval(() => {
                 feedback.classList.add('d-none');
-            }, 4000)
+            }, 5000)
         }
     }
 
