@@ -20,7 +20,7 @@ export default function Slider() {
         className = "mySwiper"
       >
         <SwiperSlide>
-          <img src="https://via.placeholder.com/1440x300/0d6efd" alt="#"/>
+          <img src="../images/meeting_one.webp" alt="Meeting one"/>
         </SwiperSlide>
         <SwiperSlide>
           <img src="https://via.placeholder.com/1440x300/fd7e14" alt="#"/>

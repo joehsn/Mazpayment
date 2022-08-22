@@ -7,8 +7,6 @@ export default function Navigator() {
     <Router>
       <Routes>
         <Route exact path="/" element={<App />} /> 
-        {/* any routes add after this one will not be reached */}
-        {/* <Route path="*" element={<NotFound />} />  */}
       </Routes>
     </Router>
     </>)
