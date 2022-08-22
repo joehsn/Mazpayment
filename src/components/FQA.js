@@ -6,7 +6,7 @@ export default function FQA() {
     return (<>
         <Container fluid className='FQA py-5 px-3 px-md-5 bg-light text-center'>
             <Row>
-                <Col md={6} data-aos='fade-left' className='mb-3 mb-md-0'>
+                <Col md={6} className='mb-3 mb-md-0'>
                     <Link to='/' className='text-decoration-none'>
                         <Card>
                             <Card.Body className='shadow py-5'>
@@ -17,7 +17,7 @@ export default function FQA() {
                         </Card>
                     </Link>
                 </Col>
-                <Col md={6} data-aos='fade-right'>
+                <Col md={6}>
                     <Link to='/' className='text-decoration-none'>
                         <Card>
                             <Card.Body className='shadow py-5'>
