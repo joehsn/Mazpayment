@@ -24,13 +24,8 @@ export default function Methods() {
                     <Col md={2} xs={6}>
                         <FaCcAmazonPay className='w-100 h-100' />
                     </Col>
-                    <Col md={2} xs={6}>
+                    <Col md={2} xs={12}>
                         <FaCcApplePay className='w-100 h-100' />
-                    </Col>
-                    <Col md={2} xs={6} className='d-flex justify-content-center align-items-center'>
-                        <div className='googlepay w-100 bg-primary text-white py-3 px-2 rounded-3'>
-                            <FaGooglePay className='w-100 h-100' />
-                        </div>
                     </Col>
                 </Row>
             </Col>
