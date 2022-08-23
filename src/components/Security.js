@@ -8,7 +8,7 @@ export default function Security() {
         <Container fluid className='security py-5'>
             <Row className='justify-content-center'>
                 <Col xs={12} data-aos='fade-down' className="text-center mb-5">
-                    <h2>ألامان والموثوقية</h2>
+                    <div className='h2'>ألامان والموثوقية</div>
                     <span class="text-muted fs-6">أمانك قبل كل شئ!</span>
                 </Col>
                 <Row className='flex-column-reverse flex-md-row'>

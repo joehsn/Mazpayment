@@ -7,7 +7,7 @@ export default function Methods() {
     <Container fluid className='methods py-5 bg-light'>
         <Row>
             <Col xs={12} data-aos='fade-down' className='text-center mb-5'>
-                <h2>كل الطرق متاحة</h2>
+                <div className='h2'>كل الطرق متاحة</div>
                 <span className="text-muted fs-6">قدم لعملائك حرية الاختيار</span>
             </Col>
             <Col className='px-md-5 px-3'>

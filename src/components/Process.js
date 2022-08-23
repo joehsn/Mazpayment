@@ -8,7 +8,7 @@ export default function Process() {
         <Container fluid className='process py-5 bg-light'>
             <Row className='justify-content-center'>
                 <Col xs={12} data-aos='fade-down' className="text-center mb-5">
-                    <h2>معالجة المدفوعات المحلية والدولية</h2>
+                    <div className='h2'>معالجة المدفوعات المحلية والدولية</div>
                 </Col>
                 <Row>
                     <Col md={6} data-aos='fade-left' className='px-2'>
